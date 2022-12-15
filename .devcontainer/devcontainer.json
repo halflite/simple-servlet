@@ -1,0 +1,13 @@
+{
+	"name": "simple-servlet",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"extensions": [
+		"redhat.java",
+		"visualstudioexptteam.vscodeintellicode",
+		"ms-ceintl.vscode-language-pack-ja",
+		"mhutchie.git-graph",
+		"DotJoshJohnson.xml"
+	]
+}
